@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BlowUP", "BlowUP\BlowUP.vcxproj", "{9B223232-698A-4DD8-BDBD-10000C652A62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B223232-698A-4DD8-BDBD-10000C652A62}.Debug|x64.ActiveCfg = Debug|x64
+		{9B223232-698A-4DD8-BDBD-10000C652A62}.Debug|x64.Build.0 = Debug|x64
+		{9B223232-698A-4DD8-BDBD-10000C652A62}.Debug|x86.ActiveCfg = Debug|Win32
+		{9B223232-698A-4DD8-BDBD-10000C652A62}.Debug|x86.Build.0 = Debug|Win32
+		{9B223232-698A-4DD8-BDBD-10000C652A62}.Release|x64.ActiveCfg = Release|x64
+		{9B223232-698A-4DD8-BDBD-10000C652A62}.Release|x64.Build.0 = Release|x64
+		{9B223232-698A-4DD8-BDBD-10000C652A62}.Release|x86.ActiveCfg = Release|Win32
+		{9B223232-698A-4DD8-BDBD-10000C652A62}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {573675B4-65EB-4BC7-BAE1-B4372E3D32F1}
+	EndGlobalSection
+EndGlobal
